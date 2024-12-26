@@ -1,9 +1,15 @@
-⚡ Energy Consumption Dashboard
+## ⚡ Energy Consumption EDA
+
+
 🌟 Project Overview
 The Energy Consumption Dashboard is an interactive data visualization tool designed to analyze and optimize energy consumption patterns across different regions and time periods. By leveraging Python, Dash, and Plotly, the project provides insights into energy usage trends, identifies cost-saving opportunities, and highlights the impact of time and region on energy consumption.
 
+
+
 ✨ Key Features
 📊 Interactive Visualizations:
+
+
 
 Displays energy consumption trends across different regions and times of the day.
 Line and bar charts to compare energy usage before and after optimization thresholds.
@@ -44,10 +50,14 @@ Calculated the 25th percentile of energy consumption as the threshold.
 Shut down cells with energy consumption below the threshold.
 📉 Statistical Analysis:
 
+
+
 Conducted ANOVA to validate:
 The relationship between regions and energy consumption.
 The relationship between time of day and energy consumption.
 📈 Visualization and Reporting:
+
+
 
 Created an interactive Dash application to visualize trends and findings.
 Compared energy consumption and cost savings before and after optimization.
@@ -59,6 +69,8 @@ cd energy-consumption-dashboard
 🔧 Install Dependencies: Ensure you have Python installed. Then install the required libraries:
 Copy code
 
+
+
 pip install -r requirements.txt
 ▶️ Run the Dashboard: Execute the following command to start the Dash app:
 Copy code
@@ -68,6 +80,8 @@ Open your browser and navigate to http://127.0.0.1:8050/ to interact with the da
 📊 Results and Insights
 🌍 Regional Differences:
 
+
+
 Energy consumption varies significantly across regions, highlighting the need for tailored strategies.
 ⏰ Time-of-Day Trends:
 
@@ -75,6 +89,8 @@ Peak energy usage occurs during the afternoon, indicating high activity in resid
 💵 Cost Savings:
 
 By applying the threshold to shut down low-consumption cells, significant cost savings were achieved.
+
+
 
 📬 Contact
 For any questions or contributions, feel free to reach out:
