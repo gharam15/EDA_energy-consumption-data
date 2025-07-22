@@ -1,13 +1,24 @@
-
 # ⚡ Energy Consumption EDA
+
+
+
+
+
 
 # Dashborad:
 ![Your Caption](dashboard.PNG)
 
 
-# my evaluation
+
+
+
+
+# my evaluation:
 ![Your Caption](gd.PNG)
-# يشسا##
+
+
+
+
 # 🌟 Project Overview
 The Energy Consumption Dashboard is an interactive data visualization tool designed to analyze and optimize energy usage patterns across various regions and time periods. It provides actionable insights, identifies cost-saving opportunities, and reveals the impact of regional and temporal factors on consumption behavior.
 
